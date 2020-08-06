@@ -17,8 +17,8 @@ module FancyDance
       "Thank you, thank you. It was a pleasure to dance for you all."
     end
 
-    # module ClassMethods
-    #
-    # end
+    module ClassMethods
+
+    end
   end
 end
