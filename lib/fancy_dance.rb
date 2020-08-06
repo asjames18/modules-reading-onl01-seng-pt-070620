@@ -19,7 +19,9 @@ module FancyDance
 
     module ClassMethods
 
-      
+    end
+
+
 
 
 
