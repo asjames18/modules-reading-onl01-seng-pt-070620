@@ -18,6 +18,7 @@ module FancyDance
     end
 
     module ClassMethods
+      extend FancyDance::ClassMethods
 
     end
   end
