@@ -4,6 +4,4 @@ module FancyDance
 
 
   end
-
-
 end
