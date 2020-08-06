@@ -13,6 +13,10 @@ module FancyDance
       "I'm doing a pirouette"
     end
 
+    def take_a_bow
+
+    end
+
 
 
 
